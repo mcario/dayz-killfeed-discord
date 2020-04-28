@@ -1,0 +1,2 @@
+DAYZSERVER_X64_ADM = r"C:\DayZ\servers\DayZServer\profiles\DayZServer_x64.ADM"
+DISCORD_WEBHOOK_URL = r'https://discordapp.com/api/webhooks/702197352919124512/jaasdNfGasdZXcHTU1VPeILX9ItK9f6OSbkSd_CdVMpX3N-OfnrUVNj2v_Ragw'
